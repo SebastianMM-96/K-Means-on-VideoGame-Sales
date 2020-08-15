@@ -8,14 +8,14 @@ Este conjunto de datos contiene una lista de videojuegos con ventas superiores a
 
 El archivo incluye lo siguiente:
 
--Rango - Clasificación de las ventas totales
--Nombre - El nombre de los juegos
--Plataforma - Plataforma del lanzamiento de juegos (es decir, PC, PS4, etc.)
--Año - Año del lanzamiento del juego
--Género - Género del juego
--Editor - Editor del juego
--NA_Sales - Ventas en América del Norte (en millones)
--EU_Sales - Ventas en Europa (en millones)
--JP_Sales - Ventas en Japón (en millones)
--Other_Sales - Ventas en el resto del mundo (en millones)
--Global_Sales - Total de ventas en todo el mundo.
+- Rango - Clasificación de las ventas totales
+- Nombre - El nombre de los juegos
+- Plataforma - Plataforma del lanzamiento de juegos (es decir, PC, PS4, etc.)
+- Año - Año del lanzamiento del juego
+- Género - Género del juego
+- Editor - Editor del juego
+- NA_Sales - Ventas en América del Norte (en millones)
+- EU_Sales - Ventas en Europa (en millones)
+- JP_Sales - Ventas en Japón (en millones)
+- Other_Sales - Ventas en el resto del mundo (en millones)
+- Global_Sales - Total de ventas en todo el mundo.
