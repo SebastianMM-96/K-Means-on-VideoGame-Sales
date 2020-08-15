@@ -1,8 +1,8 @@
-# K-Means on VideoGame Sales
+# K-Means on VideoGame Sales :video_game:
 
 En esta implementación, utilizaremos el algoritmo de K-Means para analizar la venta de videojuegos. En está notebook se pretende mostrar los juegos más vendidos desde la perspectiva global, luego examinar los juegos en términos de género y plataforma, los géneros de juego según la región y finalmente el año en que se lanzan los 1000 juegos más vendidos y sus editores. También ofreceremos información sobre juegos, editores y plataformas.
 
-## Sobre el conjunto de datos
+## Sobre el conjunto de datos :video_game:
 
 Este conjunto de datos contiene una lista de videojuegos con ventas superiores a 100,000 copias. Fue generado a partir de la página https://www.vgchartz.com/.
 
