@@ -1,0 +1,2 @@
+# K-Means-on-VideoGame-Sales
+En esta implementación, utilizaremos el algoritmo de K-Means para analizar la venta de videojuegos. En está notebook se pretende mostrar los juegos más vendidos desde la perspectiva global, luego examinar los juegos en términos de género y plataforma, los géneros de juego según la región y finalmente el año en que se lanzan los 1000 juegos más vendidos y sus editores. También ofreceremos información sobre juegos, editores y plataformas.
